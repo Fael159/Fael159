@@ -21,12 +21,12 @@
 ## 
 
 <div style="display: inline_block">
-<a href="https://api.whatsapp.com/send?phone=5515998526735">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="100em" height="80em" />
+<a href="http://linkedin.com/in/rafael-henrique-andrade-48ba711bb">
+<img align="center" alt="Contato Linkedin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="100em" height="80em" />
 </a> &nbsp
 
-<a href="http://linkedin.com/in/rafael-henrique-andrade-48ba711bb">
-<img align="center" src="https://ayltoninacio.com.br/img/s/20w50.jpg" alt="Compartilhe no WhatsApp" width="30em" height="30em">
+<a href="https://api.whatsapp.com/send?phone=5515998526735">
+<img align="center" src="https://ayltoninacio.com.br/img/s/20w50.jpg" alt="Contato WhatsApp" width="30em" height="30em">
 </a>
 </div>
 
