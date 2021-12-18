@@ -16,6 +16,8 @@
 <img align="center" alt="Fael-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50em" height="50em" /> &nbsp
 <img align="center" alt="Fael-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="50em" height="50em" /> &nbsp
 <img align="center" alt="Fael-Postgre" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50em" height="50em" /> &nbsp
+<img align="center" alt="Fael-PHP" src="https://user-images.githubusercontent.com/79753808/146646867-0fdcbaa1-d9b5-49bc-8837-1bde6dd7dafc.png" width="50em" height="50em" /> &nbsp
+<img align="center" alt="Fael-Apache" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/apache_original_wordmark_logo_icon_146643.png" width="50em" height="50em" /> &nbsp
 </div> </a>
 
 ## 
